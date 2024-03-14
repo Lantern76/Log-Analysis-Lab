@@ -5,7 +5,7 @@ This will be a beginner level lab focusing on analyzing logs found in Windows Ev
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Log Analysis Lab project aimed to allow individuals the opportunity to become more familiar with one of the most important tools related to Windows, Event Viewer. This lab is designed to be conducted in a safe at home environment and to be accessable to anyone with a Windows 10/11 operating system. The primary focus is to become familiar with the Event Viewr tool, attain a better understanding of the importance of Logs, and become accustomed to the Guided User Interface(GUI) of the tool. This hands on experience was designed to introduce a basic understanding of network security, digital forensic analysis, and detection measures. 
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]

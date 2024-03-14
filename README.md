@@ -10,10 +10,10 @@ The Log Analysis Lab project aimed to allow individuals the opportunity to becom
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Basic understanding of Log analysis concepts and practical application.
+- Proficiency in analyzing and interpreting user/network logs.
+- Ability to utilize the GUI of the Event Viewer Tool.
+- Enhanced knowledge of cmd terminal and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used

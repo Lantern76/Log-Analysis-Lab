@@ -1,10 +1,9 @@
-# Log-Analysis-Lab
+# Begginer-Log-Analysis-Lab
 This will be a beginner level lab focusing on analyzing logs found in Windows Event viewer. To follow along no outside tools will be required, such as Splunk or other parsing tools.
 
-# PROJECTNAME
+# Windows-Log-Analysis
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 

@@ -25,6 +25,7 @@ The Log Analysis Lab project aimed to allow individuals the opportunity to becom
 
 ## Steps
 1. Right Click on the start button and select Run
+   
    ![1 Run](https://github.com/Lantern76/Log-Analysis-Lab/assets/119342094/996f6ca0-1e47-46ae-8d89-ef7005714298)
 
 3. In the Run Box, type cmd and then click ok.
